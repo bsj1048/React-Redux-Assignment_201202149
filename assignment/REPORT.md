@@ -47,3 +47,7 @@ View :
 멍청한 Component- 전달받아 사용
 
 View Layer Binding : Component와 Store를 연결
+
+
+앞으로 해결해야할 문제
++) 서버를 사용해서인지 링크로 된 이미지말고 폴더의 상대경로를 이용하여 이미지를 사용하려고 하면 엑스박스가 나옴.
